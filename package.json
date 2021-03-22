@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@neojp/tailwindcss-mix-blend-mode-utilities": "^1.0.3"
+  }
+}

@@ -7,5 +7,5 @@ module.exports = {
     variants: {
         extend: {},
     },
-    plugins: [],
+    plugins: [require('@neojp/tailwindcss-mix-blend-mode-utilities')],
 };
